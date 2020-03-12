@@ -1,0 +1,25 @@
+{
+  "name": "ss-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkloar/ss-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkloar/ss-search/issues"
+  },
+  "homepage": "https://github.com/mkloar/ss-search#readme",
+  "dependencies": {
+    "elasticlunr": "^0.9.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "random-object-generator": "^1.0.2"
+  }
+}
